@@ -1,5 +1,6 @@
-# minitalk
+# 🎤minitalk🎧
 ## No funny phrase this time
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="CC BY-NC-SA 4.0 License"></a>
 ## Steps to compile and execute Minitalk (mandatory part)
 1. When executing `make`, it compiles two files: `client` and `server`.
 2. After that, we must first execute the `server`, which will show you the PID and will wait for a message.
